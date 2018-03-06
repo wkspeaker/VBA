@@ -1,0 +1,2 @@
+测试功能，在Excel的功能区加载几个自定义按钮。
+Excel_RibbonTest2.xlsm中的自定义按钮适用于Excel2007以及Excel2016,同时引用了自定义按钮。
